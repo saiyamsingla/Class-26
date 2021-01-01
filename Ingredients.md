@@ -1,6 +1,6 @@
-#### ***Chocolate Cake***
+## ***Chocolate Cake***
 
-* ooking spray
+* Cooking spray
 
 * 1 cup unsweetened cocoa powder (natural or Dutch process)
 
@@ -21,3 +21,5 @@
 * 1/2 cup sour cream
 
 * 2 teaspoons vanilla extract
+
+***Created By Saiyam Singla***
